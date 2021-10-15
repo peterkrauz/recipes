@@ -2,10 +2,10 @@
 Less caloric than the banana pancakes, and just as delicious!
 
 ## Ingredients
-Half an avocado
-150ml of Milk
-2 Spoons of honey
-120g of Granola
+- Half an avocado
+- 150ml of Milk
+- 2 Spoons of honey
+- 120g of Granola
 
 ## Directions
 Extract the juicy bit of the avocado out of its peel and pour it onto a blender.<br> 

@@ -2,10 +2,10 @@
 My favorite breakfast recipe by far - as of October 2021, at least. Serves (very well) a single person.
 
 ## Ingredients
-90g of Oatmeal
-10g of Protein Powder (1/3 of a whey scoop)
-1x Egg
-1x Banana 
+- 90g of Oatmeal
+- 10g of Protein Powder (1/3 of a whey scoop)
+- 1x Egg
+- 1x Banana 
 
 ## Directions
 Split the banana in half and throw it inside a blender or something similar.<br>
